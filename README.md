@@ -65,6 +65,8 @@
 
 | Date  | Project                                                      | SFT           | RL   | Task                |
 | ----- | ------------------------------------------------------------ | ------------- | ---- | ------------------- |
+| 26.07 | TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs [[📑Paper]](https://arxiv.org/abs/2607.17423)[[🖥️Code]](https://github.com/MCG-NJU/TimeLens2) | Verified grounding SFT | Temporal-grounding GRPO | Video temporal grounding |
+| 26.01 | Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning [[📑Paper]](https://arxiv.org/abs/2601.23224)[[🖥️Code]](https://github.com/MCG-NJU/Video-o3) | Interleaved reasoning trajectories | Trajectory-level rewards | Long-video multi-hop QA |
 | 25.04.10 | VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning[[📑Paper]](https://arxiv.org/pdf/2504.06958)[[🖥️Code]](https://github.com/OpenGVLab/VideoChat-R1) | - | GRPO | general video understanding,video temporal grounding, object tracking, QA and grounding QA tasks,video captioning and video quality access |
 | 25.03 | Open-LLaVA-Video-R1[[🖥️Code]](https://github.com/Hui-design/Open-LLaVA-Video-R1) | -             | GRPO | DVD-counting        |
 | 25.03 | TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM [[📑Paper]](https://arxiv.org/abs/2503.05379)[[🖥️Code]](https://github.com/www-Ye/TimeZero) | -   | GRPO | Temporal Grounding |
